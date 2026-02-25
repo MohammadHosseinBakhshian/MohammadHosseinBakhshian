@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MohammadHossein</h1>
 <h3 align="center">A passionate Electrical Engineer :)</h3>
 
-<img align="right" alt="MH_Bakhshian" width = "200" src =https://miro.medium.com/v2/resize:fit:720/format:webp/0*TRuL3Ews7q01PTap.gif>
+<img align="right" alt="MH_Bakhshian" width = "250" src =https://miro.medium.com/v2/resize:fit:720/format:webp/0*TRuL3Ews7q01PTap.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhosseinbakhshian&label=Profile%20views&color=298ac7&style=flat" alt="mohammadhosseinbakhshian" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning,Robotics,control & Digital systems**
